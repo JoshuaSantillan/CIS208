@@ -1,0 +1,4 @@
+1) Typing break filename sets the first breakpoint of debugging.
+2) Run starts the program using the breakpoint 
+3) info registers displays current register names/addresses and their values.
+4) ni displays the next instruction in working from the starting point. in our case it first dispalyed 40 then after next ni 2 was added with it displaying 42
